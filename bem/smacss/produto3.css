@@ -1,0 +1,5 @@
+.produto-3 { /* modificador */
+    border: 2px solid rgb(5, 19, 129);
+    padding: 8px;
+    background-color: #2a58b5;
+}
